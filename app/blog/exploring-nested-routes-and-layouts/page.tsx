@@ -1,10 +1,10 @@
 "use client";
 import SyntaxHighlighter from "react-syntax-highlighter";
 import { docco } from "react-syntax-highlighter/dist/esm/styles/hljs";
-import React from "react";
 import { useRouter } from "next/navigation";
 export default function Page() {
   const router = useRouter();
+
   return (
     <>
       <main className="pt-8 pb-16 lg:pt-10 lg:pb-24 antialiased">
@@ -27,7 +27,7 @@ export default function Page() {
               <img className="w-10 h-10 rounded-full" src="/pp.jpg" alt="" />
               <div>
                 <p className="font-bold text-lg">Niraj Chaurasiya</p>
-                <p className="font-sans text-md">05/10/2024</p>
+                <p className="font-sans text-md">01 June 2024</p>
               </div>
             </div>
             <figure>
