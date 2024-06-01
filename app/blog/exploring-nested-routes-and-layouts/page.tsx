@@ -3,7 +3,7 @@ import SyntaxHighlighter from "react-syntax-highlighter";
 import { docco } from "react-syntax-highlighter/dist/esm/styles/hljs";
 import React from "react";
 import { useRouter } from "next/navigation";
-export default function page() {
+export default function Page() {
   const router = useRouter();
   return (
     <>
@@ -72,9 +72,9 @@ export default function page() {
                 </header>
                 <ul className="border rounded-md border-gray-700 p-5 flex flex-col gap-2">
                   <p>
-                    Nested routing might sound complicated, but it's a powerful
-                    way to organize and navigate web applications. Let's break
-                    it down into easy-to-understand pieces.
+                    Nested routing might sound complicated, but it&apos;s a
+                    powerful way to organize and navigate web applications.
+                    Let&apos;s break it down into easy-to-understand pieces.
                   </p>
                   <p>Imagine a project management tool with these sections:</p>
                   <div className="flex flex-col gap-2">
@@ -132,8 +132,8 @@ export default function page() {
                   <p>
                     You can create separate UIs for each route using layout.tsx
                     and page.tsx files. page.tsx is a special Next.js file that
-                    exports a React component, and it's required for the route
-                    to be accessible.
+                    exports a React component, and it&apos;s required for the
+                    route to be accessible.
                   </p>
                   <p>
                     In your application, you already have a page file:
@@ -156,7 +156,7 @@ export default function page() {
                     </span>{" "}
                     path.
                   </p>
-                  <p>Let's create the page to see how it works!</p>
+                  <p>Let&apos;s create the page to see how it works!</p>
                 </ul>
               </div>
 
@@ -205,7 +205,7 @@ export default function page() {
                     </a>
                     .
                   </p>
-                  <p>You should see the "Dashboard Page" text.</p>
+                  <p>You should see the &ldquo;Dashboard Page&ldquo; text.</p>
                   <p>
                     This is how you can create different pages in Next.js:
                     create a new route segment using a folder, and add a page
@@ -291,7 +291,7 @@ export default function page() {
                   </h1>
                 </header>
                 <ul className="border rounded-md border-gray-700 p-5 flex flex-col gap-2">
-                  <p>So, Let's create a layout for the dashboard pages!</p>
+                  <p>So, Let&apos;s create a layout for the dashboard pages!</p>
                   <p>
                     Inside the <span className="bg-gray-400">/dashboard</span>{" "}
                     folder, add a new file called{" "}
@@ -304,7 +304,7 @@ export default function page() {
                     style={docco}
                   >
                     {`  
-  import SideNav from '@/app/ui/dashboard/sidenav';
+  import SideNav from &apos;@/app/ui/dashboard/sidenav&apos;;
   
   export default function Layout({ children }: { children: React.ReactNode }) {
     return (
@@ -355,7 +355,7 @@ export default function page() {
                   <p>
                     One benefit of using layouts in Next.js is that on
                     navigation, only the page components update while the layout
-                    won't re-render.
+                    won&apos;t re-render.
                   </p>
                   <img
                     src="/thumbnails/exploring-nested-routes-and-layouts/partial-rendering-dashboard.avif"
