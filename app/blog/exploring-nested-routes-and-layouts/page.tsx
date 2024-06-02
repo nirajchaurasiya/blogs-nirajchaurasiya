@@ -383,7 +383,7 @@ export default function Page() {
                 <iframe
                   width="100%"
                   height="500px"
-                  src="https://www.youtube.com/embed/UGi_UN69QyE?si=QHPzhk5wZHgA9q5H"
+                  src="https://www.youtube.com/embed/PCVrS2FIUpU?si=i8UTCxv7gDHQDtq6"
                   title="YouTube video player"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
