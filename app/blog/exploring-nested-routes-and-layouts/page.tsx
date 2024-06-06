@@ -387,9 +387,9 @@ export default function Page() {
                 <a
                   className="text-orange-500 underline"
                   target="_blank"
-                  href="https://twitter.com/@loveforrobotics"
+                  href="https://youtube.com/@niraj.chaurasiya"
                 >
-                  https://twitter.com/@niraj.chaurasiya
+                  https://youtube.com/@niraj.chaurasiya
                 </a>
               </p>
             </div>

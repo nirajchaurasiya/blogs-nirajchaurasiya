@@ -761,9 +761,9 @@ body {
                 <a
                   className="text-orange-500 underline"
                   target="_blank"
-                  href="https://twitter.com/@loveforrobotics"
+                  href="https://youtube.com/@niraj.chaurasiya"
                 >
-                  https://twitter.com/@niraj.chaurasiya
+                  https://youtube.com/@niraj.chaurasiya
                 </a>
               </p>
             </div>
@@ -777,7 +777,7 @@ body {
                 <iframe
                   width="100%"
                   height="500px"
-                  src="https://www.youtube.com/embed/PCVrS2FIUpU?si=i8UTCxv7gDHQDtq6"
+                  src="https://www.youtube.com/embed/hmkYP6Es3-4?si=0xxITtHagydvntBl"
                   title="YouTube video player"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
