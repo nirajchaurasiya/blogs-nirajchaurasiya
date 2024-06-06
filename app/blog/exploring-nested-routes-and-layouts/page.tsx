@@ -372,6 +372,26 @@ export default function Page() {
                 In the next blog, we will solve the issue of page reloading when
                 you visit in any nested layout from the dashboard page.
               </p>
+              <p>
+                Follow me on X:{" "}
+                <a
+                  className="text-orange-500 underline"
+                  target="_blank"
+                  href="https://twitter.com/@loveforrobotics"
+                >
+                  https://twitter.com/@loveforrobotics
+                </a>
+              </p>
+              <p>
+                My YouTube channel link where I share amazing videos like this:{" "}
+                <a
+                  className="text-orange-500 underline"
+                  target="_blank"
+                  href="https://twitter.com/@loveforrobotics"
+                >
+                  https://twitter.com/@niraj.chaurasiya
+                </a>
+              </p>
             </div>
             <div>
               <header className="lg:mb-4 mt-6 not-format">

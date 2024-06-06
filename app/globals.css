@@ -5,3 +5,6 @@
 body {
   background: rgb(17 24 39);
 }
+ul pre {
+  max-height: 500px;
+}

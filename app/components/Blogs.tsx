@@ -39,10 +39,11 @@ export default function Blogs() {
                       </svg>
                     </Link>
 
-                    <h2 className="tracking-widest text-xs title-font mt-4 flex gap-1 font-medium text-white mb-1">
+                    <h2 className="tracking-widest title-font mt-4 flex flex-wrap gap-1 font-medium text-white mb-1">
                       {blog.tags.map((tag, index) => (
                         <p
                           key={index}
+                          style={{ fontSize: "10px" }}
                           className="bg-orange-500 p-1 rounded-full"
                         >
                           {tag.toUpperCase()}
