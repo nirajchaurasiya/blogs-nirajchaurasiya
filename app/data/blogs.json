@@ -10,5 +10,11 @@
     "key": "building-a-timer-clock",
     "photo": "/thumbnails/timer-app/timer-ss.png",
     "tags": ["html", "css", "js", "timer-app"]
+  },
+  {
+    "title": "Navigating between pages",
+    "key": "navigating-between-pages-and-showing-active-to-link",
+    "photo": "/thumbnails/navigating-between-pages-and-showing-active-to-link/navigating-between-pages-and-showing-active-to-link.png",
+    "tags": ["routes", "nested routes", "layout", "nextjs 14"]
   }
 ]

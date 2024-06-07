@@ -20,6 +20,11 @@ export default function RootLayout({
       <body suppressHydrationWarning className={inter.className}>
         {children}
       </body>
+      <script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5670755998255836"
+        crossOrigin="anonymous"
+      ></script>
     </html>
   );
 }
