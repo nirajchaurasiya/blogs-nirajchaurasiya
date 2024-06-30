@@ -1,6 +1,6 @@
 import Blogs from "./components/Blogs";
 import Navbar from "./components/Navbar";
-
+import blogs from "@/app/data/blogs.json";
 export default function Home() {
   return (
     <section>
@@ -11,7 +11,8 @@ export default function Home() {
           every video I upload!
         </p>
       </div>
-      <Blogs />
+
+      <Blogs blogs={blogs} />
     </section>
   );
 }
