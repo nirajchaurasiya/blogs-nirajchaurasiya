@@ -165,7 +165,7 @@ export default function Page() {
             </div>
             <figure>
               <img
-                className="w-full object-cover rounded-"
+                className="w-full object-cover"
                 src="/thumbnails/mern-app-2023/thumbnail.png"
                 alt=""
               />
@@ -268,7 +268,7 @@ export default function Page() {
                       Understand Full-Stack Development
                     </span>{" "}
                     : Gain hands-on experience with developing a web
-                    application's front-end and back-end.
+                    application&apos;s front-end and back-end.
                   </li>
                   <li>
                     <span className="font-bold">Implement Authentication</span>{" "}
