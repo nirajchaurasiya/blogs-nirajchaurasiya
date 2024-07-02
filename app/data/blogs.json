@@ -4,9 +4,9 @@
     "key": "exploring-nested-routes-and-layouts",
     "photo": "/thumbnails/exploring-nested-routes-and-layouts/nested-routes-and-layouts.png",
     "tags": ["routes", "nested routes", "layout", "nextjs 14"],
-    "course":{
-      "title":"NextJS 14",
-      "key":"nextjs-14-full-course"
+    "course": {
+      "title": "NextJS 14",
+      "key": "nextjs-14-full-course"
     }
   },
   {
@@ -14,9 +14,9 @@
     "key": "building-a-timer-clock",
     "photo": "/thumbnails/timer-app/timer-ss.png",
     "tags": ["html", "css", "js", "timer-app"],
-    "course":{
-      "title":"NextJS 14",
-      "key":"nextjs-14-full-course"
+    "course": {
+      "title": "NextJS 14",
+      "key": "nextjs-14-full-course"
     }
   },
   {
@@ -24,9 +24,9 @@
     "key": "navigating-between-pages-and-showing-active-to-link",
     "photo": "/thumbnails/navigating-between-pages-and-showing-active-to-link/navigating-between-pages-and-showing-active-to-link.png",
     "tags": ["routes", "nested routes", "layout", "nextjs 14"],
-    "course":{
-      "title":"NextJS 14",
-      "key":"nextjs-14-full-course"
+    "course": {
+      "title": "NextJS 14",
+      "key": "nextjs-14-full-course"
     }
   },
   {
@@ -34,9 +34,20 @@
     "key": "the-intro-to-mern-blog--app",
     "photo": "/thumbnails/mern-app-2023/thumbnail.png",
     "tags": ["mern", "blog app"],
-    "course":{
-      "title":"Blog App",
-      "key":"blog-mern-app"
-  }
+    "course": {
+      "title": "Blog App",
+      "key": "blog-mern-app"
+    }
+  },
+  {
+    "photo": "https://i9.ytimg.com/vi/2-LwVEVcspk/maxresdefault.jpg?v=66754204&sqp=CNSZjrQG&rs=AOn4CLAw6JqAG7QgZwL5hQLbhjdrwCN9cg",
+
+    "title": "Professional Backend Setup with NodeJS",
+    "key": "professional-backend-setup-with--nodejs",
+    "tags": ["mern", "blog app"],
+    "course": {
+      "title": "Blog App",
+      "key": "blog-mern-app"
+    }
   }
 ]
