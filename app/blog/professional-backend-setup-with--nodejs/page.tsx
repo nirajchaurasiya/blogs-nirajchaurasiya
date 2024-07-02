@@ -43,7 +43,7 @@ export default function Page() {
             <figure>
               <img
                 className="w-full object-cover"
-                src="https://i9.ytimg.com/vi/2-LwVEVcspk/maxresdefault.jpg?v=66754204&sqp=CNSZjrQG&rs=AOn4CLAw6JqAG7QgZwL5hQLbhjdrwCN9cg"
+                src="/thumbnails/mern-app-2023/2.jpg"
                 alt=""
               />
             </figure>
