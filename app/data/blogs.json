@@ -49,5 +49,16 @@
       "title": "Blog App",
       "key": "blog-mern-app"
     }
+  },
+  {
+    "photo": "/thumbnails/mern-app-2023/3.jpg",
+
+    "title": "Connecting to MongoDB",
+    "key": "connecting-to-mongodb--mern-app-2023",
+    "tags": ["mern", "blog app"],
+    "course": {
+      "title": "Blog App",
+      "key": "blog-mern-app"
+    }
   }
 ]
