@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Blogs - Niraj Chaurasiya",
   description:
-    "Welcome to the blog page of the official site, https://nirajchaurasiya.com",
+    "Welcome to the blog page of the official site, https://nirajchaurasiya.netlify.app",
 };
 
 export default function RootLayout({

@@ -12,14 +12,14 @@ export default function Navbar() {
         </Link>
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
           <Link
-            href="https://nirajchaurasiya.com"
+            href="https://nirajchaurasiya.netlify.app"
             className="mr-5 hover:text-white"
             target="_blank"
           >
             Visit Homepage
           </Link>
           <Link
-            href="https://services.nirajchaurasiya.com"
+            href="https://nirajchaurasiya-services.netlify.app"
             className="mr-5 hover:text-white"
             target="_blank"
           >
